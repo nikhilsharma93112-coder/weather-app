@@ -1,4 +1,4 @@
-A minimalist, real-time weather application that provides instant forecast data through a clean and intuitive user interface.
+real-time weather application that provides instant forecast data through a clean and intuitive user interface.
 
 Features
 Real-time Updates: Fetch current weather conditions for any city.
